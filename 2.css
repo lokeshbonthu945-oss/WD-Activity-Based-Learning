@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background: #eaf2f8;
+}
+
+h1 {
+    background: darkblue;
+    color: white;
+    padding: 15px;
+}
+
+nav {
+    background: black;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
+
+.card {
+    background: white;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+button {
+    background: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+}
