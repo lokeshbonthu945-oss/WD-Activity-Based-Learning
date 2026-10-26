@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background: #fff3e0;
+}
+
+h1 {
+    background: orangered;
+    color: white;
+    padding: 15px;
+}
+
+nav {
+    background: brown;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
+
+.card {
+    background: white;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid orange;
+}
+
+button {
+    background: orangered;
+    color: white;
+    padding: 10px;
+    border: none;
+}
